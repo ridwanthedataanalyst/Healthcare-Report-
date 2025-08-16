@@ -22,4 +22,4 @@ The dashboard is designed for **executives and hospital administrators to track 
     ---
 
     ## Dashboard Preview
-     
+    ![Healthcare Dashboard](
