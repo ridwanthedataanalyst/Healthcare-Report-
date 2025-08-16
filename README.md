@@ -1,4 +1,4 @@
-# <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a8a8301e-fc8e-4724-aa17-66abbd3eaa7f" /> Healthcare Report 
+# 🏥 Healthcare Report 
 
 ## Project Overview
 This project provides a **comprehensive healthcare dashboard** to monitor metrics, billing insights, and trend trends.
@@ -8,3 +8,18 @@ The dashboard is designed for **executives and hospital administrators to track 
 
 ---
 ## Purpose
+- Provide a **high-level overview** of hospital admissions, billing, and patient demographics
+- Support **data-driven decision making** to improve healthcare performance
+
+  ## Key Insights from Dashboard
+  - **Total Patients:** 55,000
+  - **Total Billing Amount:** 1,417,432,043
+ 
+  ## Tools & Technologies
+  - **Excel** Dashboard dsign and data visualization
+  - **Healthcare Dataset** (simulated, 55,000 patient records)
+
+    ---
+
+    ## Dashboard Preview
+     
